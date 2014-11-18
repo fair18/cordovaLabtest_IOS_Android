@@ -22,7 +22,7 @@ Creating pages with Jquery (Cordova)
     2. Should display a list with at least four list items and one divider (Any content you want)
     3. Should display the word “Second”. The font colour of this text should be changed to red using css.
 
-Page 3 (Dialog):
+<b>Page 3 (Dialog):</b>
 
     1.Should have an id called “mydialog”
     2.Should contain a button to close the dialog
