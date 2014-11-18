@@ -1,0 +1,80 @@
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+body {
+	padding: 10px;
+	background-color: #D5ECF5;
+}
+
+h1 {
+	text-align: center;
+	padding: 10px;
+	font-size: 2.5em;
+}
+
+h2 {
+	text-align: center;
+	padding: 10px;
+	font-size: 1.5em;
+}
+
+ul li {
+	margin-left: 25px;
+	font-size: 12pt;
+	font-style: italic;
+	line-height: 2.5em;
+}
+
+table {
+	margin-bottom: 15px; 	
+}
+
+table, th, td  {
+	width: 100%;
+	height: 100%;
+	padding: 5px;
+	border: 1px solid black;
+	border-collapse: collapse;	
+	font-size: 14pt;
+}
+
+th {
+	width: 30%;
+	text-align: right;
+}
+
+td {
+	width: 70%;
+	text-align: left;
+	font-style: italic;
+}
+
+#androidImage {
+	width: auto;
+	height: auto;
+	text-align: center;
+	margin: 25px 0;
+}
+
+.copy {
+	text-align: center;
+}
+
+#world {
+	padding: 25px;
+	border: 2px solid black;
+	width: 30%;
+	height: 25px;
+	margin: 2% 35%;
+}
+
+#world p {
+	text-align: center;
+	font: 25pt;
+	font-weight: 700;
+	color: red;
+		
+}
