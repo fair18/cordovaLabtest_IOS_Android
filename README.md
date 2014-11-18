@@ -1,7 +1,7 @@
 cordovaLabtest_IOS_Android
 ==========================
 
-Creating pages with Jquery (Cordova)
+<b><i>Creating pages with Jquery (Cordova)</i></b>
 
 <b>The application should:</b>
 
