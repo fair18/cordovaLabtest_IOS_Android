@@ -1,7 +1,8 @@
 cordovaLabtest_IOS_Android
 ==========================
 
-Creating pages with Jquery (Cordova) 
+Creating pages with Jquery (Cordova)
+
 The application should:
     1. Be able to work with Android and IOS
     2. Contain three different pages, two pages and one dialog (data-role=”page”)
